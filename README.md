@@ -2,18 +2,18 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
-### <div align="center">I'm Jorge, a full-time full-stack freelance developer 😀 working remotely 🚀</div>  
+### <div align="center">I'm Jorge, a full-time full-stack freelance developer 👨🏽‍💻 working remotely 🚀</div>  
 
 - 🔭 I am currently working as a Developer
   
 
-- 🌱 I am currently learning Javascript
+- 👨🏽‍💻 I am currently learning Javascript
   
 
-- ❓ Bachelor of Computer Systems Engineering
+- 👨🏽‍🎓 Bachelor of Computer Systems Engineering
   
 
-- ⚡Self-taught by vocation
+- ✍🏽 Self-taught by vocation
   
 <br>
 
