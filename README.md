@@ -8,10 +8,7 @@
   
 
 - 👨🏽‍💻 I am currently learning Javascript
-  
-
-- 👨🏽‍🎓 Bachelor of Computer Systems Engineering
-  
+    
 
 - ✍🏽 Self-taught by vocation
   
