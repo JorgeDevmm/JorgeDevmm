@@ -10,7 +10,7 @@
 - 💻 I am currently learning Javascript
     
 
-- ✍🏽 Self-taught by vocation
+- Self-taught by vocation
   
 <br>
 
