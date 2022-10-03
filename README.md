@@ -7,7 +7,7 @@
 - 🔭 I am currently working as a Developer
   
 
-- 👨🏽‍💻 I am currently learning Javascript
+- 💻 I am currently learning Javascript
     
 
 - ✍🏽 Self-taught by vocation
