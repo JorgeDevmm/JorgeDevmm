@@ -24,7 +24,7 @@
 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=JorgeDevmm&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeDevmm&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeDevmm&layout=&theme=dracula)
 
 
 
