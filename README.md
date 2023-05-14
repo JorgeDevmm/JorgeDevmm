@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jorge</h1>
-<h3 align="start">Bachelor of Systems Engineering, with domain in the creation and management of databases, with knowledge of SQL Server, MySQL, as well as in programming languages such as Javascript, PHP, Java, C++ self-taught, proactive, dynamic capable of work responsibly with ease to adapt to change. Interested in developing activities related to frontend and backend programming.</h3>
+<h3 align="start">Bachelor of Systems Engineering, with domain in the creation and management of databases, with knowledge of SQL Server, MySQL, as well as in programming languages such as Javascript, Java, C++ self-taught, proactive, dynamic capable of work responsibly with ease to adapt to change. Interested in developing activities related to frontend and backend programming.</h3>
 
 - 🔭 I am currently studying frontend and backend programming.
 - 🌱 I am currently learning web development
