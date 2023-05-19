@@ -21,9 +21,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeDevmm&layout=compact&theme=dracula" alt="abhineya" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JorgeDevmm&show_icons=true&theme=dracula" alt="abhineya" /></p>
 
 
 
