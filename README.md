@@ -1,23 +1,32 @@
-<h1 align="center">Hi 👋, I'm Jorge</h1>
-<h3 align="start">Bachelor of Systems Engineering, with domain in the creation and management of databases, with knowledge of SQL Server, MySQL, as well as in programming languages such as Javascript, Java, C++ self-taught, proactive, dynamic capable of work responsibly with ease to adapt to change. Interested in developing activities related to frontend and backend programming.</h3>
-
-- 🔭 I am currently studying frontend and backend programming.
-- 🌱 I am currently learning web development
-- 📝 I regularly write articles on Linkedin https://www.linkedin.com/feed/
-- 📫 How to reach me **jorge29luis10@gmail.com**
-- ⚡ Self-taught by **vocation**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/JorgeDevmm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/jorge-luis-monzon-morales" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<h1 align="center">Hi 👋</h1>
+<p align="center">
+    <b>Welcome to my page!</b><br><br>
+    <i>
+        I'm Jorge.<br>
+        Bachelor of Systems Engineering, with domain in the creation and management of databases, with knowledge of SQL Server, MySQL, as well as in programming languages such as Javascript, Java, C++, Self-taught by vocation, dynamic capable of work responsibly with ease to adapt to change. Interested in developing activities related to frontend and backend programming.<br>
+    </i><br>
+    <a href="https://www.linkedin.com/in/jorge-luis-monzon-morales">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    </a>
+    <a href="https://twitter.com/JorgeDevmm">
+        <img src="https://img.shields.io/badge/twitter-blue?style=flat-square&logo=twitter" alt="twitter">
+    </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 
-<p align="left"> 
+### Languages
+[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/JorgeDevmm)
+[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/JorgeDevmm)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/JorgeDevmm)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/JorgeDevmm)
+[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/JorgeDevmm)
 
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a><a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a><a href="https://gulpjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gulp-plain.svg" alt="gulp.js" height="50" /></a><a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="40" height="40"/></a> <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/></a><a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> </p>
+### Technologies
+[![GIT](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/JorgeDevmm)
+[![GULP](https://img.shields.io/badge/gulp-black?style=for-the-badge&logo=gulp)](https://github.com/JorgeDevmm)
+[![SASS](https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass)](https://github.com/JorgeDevmm)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/JorgeDevmm)
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/JorgeDevmm)
 
 
 
