@@ -11,7 +11,7 @@
     <a href="https://twitter.com/JorgeDevmm">
         <img src="https://img.shields.io/badge/twitter-blue?style=flat-square&logo=twitter" alt="twitter">
     </a>
-    <p align="center">Website: https://jorgedevmm.github.io/portafolio-jorge-monzon/</p>
+    <p align="center">Website: https://jorgemonzon.vercel.app/</p>
     
 </p>
 
