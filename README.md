@@ -6,12 +6,12 @@
         Bachelor of Systems Engineering, with domain in the creation and management of databases, with knowledge of SQL Server, MySQL, as well as in programming languages such as Javascript, Java, C++, Self-taught by vocation, dynamic capable of work responsibly with ease to adapt to change. Interested in developing activities related to frontend and backend programming.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/jorge-luis-monzon-morales">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/LINKEDIN-black?style=for-the-badge&logo=LINKEDIN" alt="LinkedIn">
     </a>
     <a href="https://twitter.com/JorgeDevmm">
-        <img src="https://img.shields.io/badge/twitter-blue?style=flat-square&logo=twitter" alt="twitter">
+        <img src="https://img.shields.io/badge/TWITTER-black?style=for-the-badge&logo=Twitter" alt="twitter">
     </a>
-    <p align="center">Website: https://jorgemonzon.vercel.app/</p>
+    <p align="center"><i> Website:</i> https://jorgemonzon.vercel.app/</p>
     
 </p>
 
@@ -31,6 +31,8 @@
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/JorgeDevmm)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/JorgeDevmm)
 [![BOOTSTRAP](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/JorgeDevmm)
+[![POSTMAN](https://img.shields.io/badge/postman-black?style=for-the-badge&logo=postman)](https://github.com/JorgeDevmm)
+
 
 
 
