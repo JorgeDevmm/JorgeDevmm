@@ -11,6 +11,9 @@
     <a href="https://twitter.com/JorgeDevmm">
         <img src="https://img.shields.io/badge/TWITTER-black?style=for-the-badge&logo=Twitter" alt="twitter">
     </a>
+    <a href="https://twitter.com/JorgeDevmm">
+        <img src="https://img.shields.io/badge/TWITTER-black?style=for-the-badge&logo=Twitter" alt="twitter">
+    </a>
     <p align="center"><i> Website:</i> https://jorgemonzon.vercel.app/</p>
     
 </p>
@@ -33,6 +36,13 @@
 [![BOOTSTRAP](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/JorgeDevmm)
 [![TAILWINDCSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwindcss)](https://github.com/JorgeDevmm)
 [![POSTMAN](https://img.shields.io/badge/postman-black?style=for-the-badge&logo=postman)](https://github.com/JorgeDevmm)
+
+<br>
+<br>
+<p align="center">
+    <a href="https://github.com/JorgeDevmm" ><img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeDevmm&theme=dracula">
+</p>
 
 
 
