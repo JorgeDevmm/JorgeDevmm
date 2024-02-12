@@ -11,9 +11,6 @@
     <a href="https://twitter.com/JorgeDevmm">
         <img src="https://img.shields.io/badge/TWITTER-black?style=for-the-badge&logo=Twitter" alt="twitter">
     </a>
-    <a href="https://twitter.com/JorgeDevmm">
-        <img src="https://img.shields.io/badge/TWITTER-black?style=for-the-badge&logo=Twitter" alt="twitter">
-    </a>
     <p align="center"><i> Website:</i> https://jorgemonzon.vercel.app/</p>
     
 </p>
