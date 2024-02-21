@@ -25,6 +25,7 @@
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/JorgeDevmm)
 
 ### Technologies
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/JorgeDevmm)
 [![GIT](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/JorgeDevmm)
 [![GULP](https://img.shields.io/badge/gulp-black?style=for-the-badge&logo=gulp)](https://github.com/JorgeDevmm)
 [![SASS](https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass)](https://github.com/JorgeDevmm)
@@ -33,7 +34,7 @@
 [![BOOTSTRAP](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/JorgeDevmm)
 [![TAILWINDCSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwindcss)](https://github.com/JorgeDevmm)
 [![POSTMAN](https://img.shields.io/badge/postman-black?style=for-the-badge&logo=postman)](https://github.com/JorgeDevmm)
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/JorgeDevmm)
+
 
 <br>
 <br>
