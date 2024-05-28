@@ -40,7 +40,7 @@
 <br>
 <p align="center">
     <a href="https://github.com/JorgeDevmm" ><img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeDevmm&theme=dracul">
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeDevmm&theme=dracula">
 </p>
 
 
