@@ -3,7 +3,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Jorge.<br>
-        Bachelor of Systems Engineering, with domain in the creation and management of databases, with knowledge of SQL Server, MySQL, as well as in programming languages such as Javascript, Java, C++, Self-taught by vocation, dynamic capable of work responsibly with ease to adapt to change. Interested in developing activities related to frontend and backend programming.<br>
+        Bachelor of Systems Engineering, with domain in the creation and management of databases, with knowledge of SQL Server, MySQL, as well as in programming languages such as Javascript, Java, C++, Self-taught by vocation, dynamic capable of work responsibly with ease to adapt to change. Interested in developing activities related to frontend nd backend programming.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/jorge-luis-monzon-morales">
         <img src="https://img.shields.io/badge/LINKEDIN-black?style=for-the-badge&logo=LINKEDIN" alt="LinkedIn">
