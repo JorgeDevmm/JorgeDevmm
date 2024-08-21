@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋</h1>
 <p align="center">
-    <b>Welcome to my page!</b><br><br>©
+    <b>Welcome to my page!</b><br><br>
     <i>
         I'm Jorge.<br>
         Bachelor of Systems Engineering, with domain in the creation and management of databases, with knowledge of SQL Server, MySQL, as well as in programming languages such as Javascript, Java, C++, Self-taught by vocation, dynamic capable of work responsibly with ease to adapt to change. Interested in developing activities related to frontend and backend programming.<br>
