@@ -7,10 +7,10 @@
     <!--</i><br>-->
     <!--<a href="https://www.linkedin.com/in/jorge-luis-monzon-morales">--!>
         <img src="https://img.shields.io/badge/LINKEDIN-black?style=for-the-badge&logo=LINKEDIN" alt="LinkedIn">-->
-    </a>
+    <!--</a>-->
     <!--<a href="https://twitter.com/JorgeDevmm">
         <img src="https://img.shields.io/badge/TWITTER-black?style=for-the-badge&logo=Twitter" alt="twitter">-->
-    </a>
+    <!--</a>-->
     <!--<p align="center"><i> Website:</i> https://jorgemonzon.vercel.app/</p>-->
     
 </p>
